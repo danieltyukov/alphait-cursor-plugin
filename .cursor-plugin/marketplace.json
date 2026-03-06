@@ -1,24 +1,19 @@
 {
-  "name": "cursor-plugin-starters",
+  "name": "alphait-plugins",
   "owner": {
-    "name": "Your Org",
-    "email": "plugins@example.com"
+    "name": "Alpha Technologies",
+    "email": "cursorai@alphait.us"
   },
   "metadata": {
-    "description": "Starter marketplace template for Cursor plugins",
+    "description": "Alpha Technologies team plugins for Cursor",
     "version": "0.1.0",
     "pluginRoot": "plugins"
   },
   "plugins": [
     {
-      "name": "starter-simple",
-      "source": "./plugins/starter-simple",
-      "description": "Minimal plugin with rules and skills only"
-    },
-    {
-      "name": "starter-advanced",
-      "source": "./plugins/starter-advanced",
-      "description": "Full-featured plugin with rules, skills, agents, commands, hooks, and MCP"
+      "name": "atlassian",
+      "source": "./plugins/atlassian",
+      "description": "Atlassian Jira, Confluence and Bitbucket integration via MCP"
     }
   ]
 }

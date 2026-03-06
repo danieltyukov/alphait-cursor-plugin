@@ -1,0 +1,12 @@
+{
+  "name": "atlassian",
+  "displayName": "Atlassian",
+  "version": "0.1.0",
+  "description": "Atlassian Jira, Confluence and Bitbucket integration for Alpha Technologies",
+  "author": {
+    "name": "Alpha Technologies",
+    "email": "cursorai@alphait.us"
+  },
+  "license": "MIT",
+  "keywords": ["atlassian", "jira", "confluence", "bitbucket", "mcp"]
+}
